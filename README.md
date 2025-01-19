@@ -6,7 +6,7 @@
 
 
 <a href="https://t.me/Gnomoslog" target="_blank" >
-  <img src="https://i.pinimg.com/originals/12/bd/a0/12bda06027dcc44a1426fcf50c4e6259.gif" alt="The Unlimited" width="498"/>
+  <img src="https://otvet.imgsmail.ru/download/204795242_f6a60d49b1ee00854b163216bb262470_800.gif" alt="The Unlimited" width="498"/>
 </a>
 
  ##
