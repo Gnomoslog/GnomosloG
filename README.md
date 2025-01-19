@@ -1,8 +1,13 @@
 <h1 align="center">Привет Меня зовут Рома! :D</h1>
 
-<h2 align="center">Мем 😂  Котик</h2>
-<div align="center">
-  <img height="498" width="498" src=https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif/> </div>
+<h2 align="center">Мем 😂  Котик  </h2>
+
+<h4 align="center">нажми на него и сможещь мне написать </h4>
+
+
+<a href="https://t.me/Gnomoslog" target="_blank" >
+  <img src="https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif" alt="The Unlimited" width="498"/>
+</a>
 
  ##
  
@@ -32,7 +37,3 @@
 * В настоящие время учюсь Государственное бюджетное
 профессиональное образовательное учреждение
 Московской области ( 2025.1-202x ) 
-
-<a href="https://t.me/Gnomoslog" target="_blank" >
-  <img src="https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif" alt="The Unlimited" width="180"/>
-</a>
