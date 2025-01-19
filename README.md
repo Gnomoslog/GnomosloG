@@ -6,7 +6,7 @@
 
 
 <a href="https://t.me/Gnomoslog" target="_blank" >
-  <img src="https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif" alt="The Unlimited" width="498"/>
+  <img src="https://64.media.tumblr.com/tumblr_lzod084qRq1r4rp3ko1_500.gif" alt="The Unlimited" width="498"/>
 </a>
 
  ##
