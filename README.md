@@ -2,9 +2,7 @@
 
 <br clear="both">
 <h2 align="center">Мем 😂  Котик</h2>
-<div align="center">
-  <img height="498" width="498" src=https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif/>
-</div>
+<img src="https://media1.tenor.com/m/fxR1bnqJ7LgAAAAC/cat-angry.gif" alt="The Unlimited" width="270"/>
 
  ##
  
