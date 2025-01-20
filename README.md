@@ -36,3 +36,16 @@
 ## Образование:
 * В настоящее время учусь в Государственном бюджетном
 профессиональном образовательном учреждении Московской области (2025.1-202x). 
+
+## Моя статистика
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GnomosloG&theme=dark&hide_border=true&locale=ru&card_width=490&card_height=190" alt="GitHub Streak" /></a>
+
+## мои соц сети
+
+<div id="badges">
+  <a href="https://t.me/Gnomoslog">
+    <img src="https://img.shields.io/badge/Telegram-green?style=plastic&logo=Gnomoslog&logoColor=green&label=Telegram&labelColor=green&color=green
+    " alt="Telegram"/>
+  </a>
+  </div>
