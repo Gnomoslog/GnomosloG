@@ -1,0 +1,16 @@
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: GnomosloG/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: GnomosloG
+            # Text on contribution graph 
+            text: GnomosloG
+       - uses: GnomosloG/simple-push-action@v1
