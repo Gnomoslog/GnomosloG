@@ -4,7 +4,6 @@
 
 <h4 align="center">Нажми на него и сможешь мне написать </h4>
 
-
 <a href="https://t.me/Gnomoslog" target="_blank" >
   <img src="https://otvet.imgsmail.ru/download/204795242_f6a60d49b1ee00854b163216bb262470_800.gif" alt="The Unlimited" width="498"/>
 </a>
@@ -35,4 +34,13 @@
 ##
 ## Образование:
 * В настоящее время учусь в Государственном бюджетном
-профессиональном образовательном учреждении Московской области (2025.1-202x). 
+профессиональном образовательном учреждении Московской области (2025.1-202x).
+
+мой телеграм
+
+<div id="badges">
+    <a href= "https://t.me/Gnomoslog">
+    <img src="https://komarev.com/ghpvc/?username=GnomosloG&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/Telegram-rgb?style=for-the-badge&logo=Telegram&logoColor=rgb&color=black" alt="Telegram Badge"/>
+  </a>
+</div>
