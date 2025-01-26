@@ -1,5 +1,5 @@
-<h1 align="center">Привет! Меня  зовут Рома! :D</h1>
-
+<h1 align="center"> Привет! Меня  зовут Рома! :D</h1>
+ 
 <h2 align="center">Мем 😂  Котик  </h2>
 
 <h4 align="center">Нажми на него и сможешь мне написать </h4>
@@ -44,3 +44,9 @@
     <img src="https://img.shields.io/badge/Telegram-rgb?style=for-the-badge&logo=Telegram&logoColor=rgb&color=black" alt="Telegram Badge"/>
   </a>
 </div>
+
+##
+
+### Год рождения
+
+<kbd>12-02-2008</kbd>
