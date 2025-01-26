@@ -1,0 +1,1 @@
+<h9> <img src="https://steamuserimages-a.akamaihd.net/ugc/1832400859118716122/3C5086ADD14E9FD42498D8F575B5FA58BC53896B/?imw=512&amp;imh=294&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="47" /> </h9>
