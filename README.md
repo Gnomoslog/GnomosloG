@@ -5,7 +5,7 @@
 <h4 align="center">Нажми на него и сможешь мне написать </h4>
 
 <a href="https://t.me/Gnomoslog" target="_blank" >
-  <img src="https://otvet.imgsmail.ru/download/204795242_f6a60d49b1ee00854b163216bb262470_800.gif" alt="The Unlimited" width="498"/>
+  <img src="" alt="The Unlimited" width="498"/>
 </a>
 
  ##
