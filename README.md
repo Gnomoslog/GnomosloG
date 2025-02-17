@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="static/styils/redactor.css">
+<link rel="stylesheet" href="redaor.css">
 
 <h1 align="center"><font class="logo1"> Привет! Меня  зовут Рома! <font color="">:D</font></font></h1>
  
@@ -54,3 +54,4 @@
 ### <font class="logo2">Год рождения</font>
 
 <kbd>12-02-2008</kbd>
+
