@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="redactor.css">
+<link rel="stylesheet" href="sss.css">
 
 <h1 align="center"><font class="logo1"> Привет! Меня  зовут Рома! <font color="">:D</font></font></h1>
  
