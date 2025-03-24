@@ -58,3 +58,11 @@
 ##
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GnomosloG&theme=chartreuse-dark&hide_border=true&border_radius=4&locale=ru)](https://git.io/streak-stats)
+
+##
+
+<details open>
+
+```mermaid
+  Наш хомяк жора сначала боялся пылесоса, а потом ничё — втянулся
+```
