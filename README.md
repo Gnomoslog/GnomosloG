@@ -57,7 +57,7 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GnomosloG&theme=chartreuse-dark&hide_border=true&border_radius=4&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GnomosloG&theme=ambient-gradient&border_radius=4.1&locale=ru)](https://git.io/streak-stats)
 
 
 ##
