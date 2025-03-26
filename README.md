@@ -71,8 +71,7 @@
 
 ##
 
-
-  [![Spotify](https://goo.su/9UNnEI)](https://goo.su/k51Ydz)
+[![Spotify](https://goo.su/E3hEic6)](https://goo.su/k51Ydz)
 
   ##
 
