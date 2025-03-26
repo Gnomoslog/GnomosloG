@@ -73,3 +73,7 @@
 
 
   [![Spotify](https://goo.su/9UNnEI)](https://goo.su/k51Ydz)
+
+<hr>
+
+![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=30072156&theme=dark)
