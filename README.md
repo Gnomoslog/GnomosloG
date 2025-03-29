@@ -58,7 +58,7 @@
 
 ##
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GnomosloG&theme=ambient-gradient&border_radius=4.1&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GnomosloG&theme=ambient-gradient&border_radius=4.1&locale=ru)](https://goo.su/PVOdz3)
 
 
 ##
