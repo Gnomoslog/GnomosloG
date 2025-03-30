@@ -1,0 +1,106 @@
+.p{ 
+    font-style: small-caps; background: rgba(42, 199, 238, 0.555); padding-left: 18px;
+    } 
+    
+    .blue {
+        background-color: rgba(42, 199, 238, 0.555);
+    } 
+    
+    .h1 {
+        color:rgba(42, 199, 238, 0.555); TEXT-ALIGN: RIGHT;
+    }
+    i {
+        text-align: center;
+        font-size: 70px;
+        color: rgba(200, 255, 250, 0.808);
+        text-shadow: 3px -4px 3px rgb(63, 63, 63);
+    }
+    
+    .zd5{
+        font-size: 30px;
+        margin-top: -20px;
+    color: rgb(153, 100, 202);
+    }
+    
+    .zd6 {
+        font-size: 2em;
+        line-height: 0.8em;
+        color: rgba(240, 191, 56, 0.651);  
+      }
+    
+      .zd71 {
+        text-align: center;
+        font-weight: bold;
+        color: rgba(42, 199, 238, 0.555);
+        font-size: 18px;
+      }
+      img {
+        width: 400px;
+        height: 200px;
+        border: 7px solid rgba(85, 85, 248, 0.534);
+      }
+    
+      .zd72{
+        font-size: 39px;
+        font-family: "Monotype Corsiva"
+      }
+    
+      .table {
+        border: 7px solid rgba(85, 85, 248, 0.534); 
+        border-collapse: collapse; 
+        width: 100%; 
+      }
+      
+      .th {
+        background-color: rgba(135, 255, 135, 0.699);
+        color: rgba(42, 199, 238, 0.555);
+        border: 3px dotted rgba(42, 199, 238, 0.555); 
+      }
+      
+      .td {
+        background-color: rgba(135, 255, 135, 0.699); 
+        border: 2px solid rgba(172, 67, 102, 0.438); 
+      }
+
+
+
+
+
+
+      .fac {
+        width: 750px;
+        height: 450px;
+        background-color:rgb(161, 120, 120);
+        margin-left: 30%;
+    }
+    
+    .photo {
+        width: 100px;
+        height: 100px;
+        margin-left: 43%;
+    }
+    
+    .nam {
+        border: 5px solidrgb(247, 90, 122);
+        background-color: goldenrod;
+    }
+    
+    .th2 {
+        border: 3px dashed rgb(247, 90, 122);
+        background-color: #ffdfc6;
+        color: rgb(68, 199, 149);
+    }
+    
+    .tam {
+        border: 5px solidrgb(247, 90, 122);
+        display: inline-block;
+        padding: 3px; 
+        margin-left: 32%;
+    }
+    
+    .td2 {
+        background-color: goldenrod;
+        border: 4px solid rgb(247, 90, 122);
+        font-size: 13px;
+        margin-left: 100px;
+    }
