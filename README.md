@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="redactor.css">
 
-<h1 align="center"><font class="logo1"> Привет! Меня  зовут Рома! <font color="">:D</font></font></h1>
+<h1 align="center"><font class="logo1"><font color=""><a href="https://github.com/Gnomoslog"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=6000&pause=2000&color=AEF718&width=500&lines=+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F++%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A0%D0%BE%D0%BC%D0%B0!%3AD" alt="Typing SVG" /></a></font></font></h1>
  
 <h2 align="center"><font class="logo1">Мем 😂  Котик  </font></h2>
 
