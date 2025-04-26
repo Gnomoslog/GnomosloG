@@ -6,7 +6,7 @@
 
 <h4 align="center"><font class="logo1">Нажми на него и сможешь мне написать </h4>
 
-<a href="https://t.me/Gnomoslog" target="_blank" >
+<a href="https://t.me/Gnomoslog" target="_blank" align="center">
   <img src="tenor.gif" alt="The Unlimited" width="325"/>
 </a>
 
