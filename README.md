@@ -11,8 +11,7 @@
 </a></p> 
 
  
- 
- ### Я немного знаю <font class="RGB6">Python</font> и  <font class="RGB7"> HTML  </font> и <font class="RGB7">CSS</font>, в скором времени надеюсь изучить <font class="RGB8">Git</font> and <font class="RGB9">GitHub</font>
+ ### Я немного знаю Python, HTML и CSS, также пользуюсь Git and GitHub, в скором времени надеюсь изучить JavaScript  and Photoshop.
  
  <img src=https://velog.velcdn.com/images/ghkd1330/post/ebd51fe2-95b4-44b9-9306-1f9933592829/image.jpeg height="70" alt="pit"  />
  <img src=https://avatars.mds.yandex.net/get-altay/11381866/2a0000018c59036deca36e60afe35279ef96/orig height="70" alt="pit"  />
