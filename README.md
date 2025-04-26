@@ -7,7 +7,7 @@
 <h4 align="center"><font class="logo1">Нажми на него и сможешь мне написать </h4>
 
 <p align="center"><a  href="https://t.me/Gnomoslog" target="_blank" >
-  <img src="Nazzu.jpg" alt="The Unlimited" width="325" />
+  <img src="tenor.gif" alt="The Unlimited" width="325" />
 </a></p> 
 
  
