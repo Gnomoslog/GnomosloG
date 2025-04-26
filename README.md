@@ -13,11 +13,11 @@
  
  ### Я немного знаю Python, HTML и CSS, также пользуюсь Git and GitHub, в скором времени надеюсь изучить JavaScript  and Photoshop.
  
-<p align=""><img src=https://velog.velcdn.com/images/ghkd1330/post/ebd51fe2-95b4-44b9-9306-1f9933592829/image.jpeg height="70" alt="pit"  />
+<img src=https://velog.velcdn.com/images/ghkd1330/post/ebd51fe2-95b4-44b9-9306-1f9933592829/image.jpeg height="70" alt="pit"  />
  <img src=https://avatars.mds.yandex.net/get-altay/11381866/2a0000018c59036deca36e60afe35279ef96/orig height="70" alt="pit"  />
  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg  />
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg  />
- </p> 
+
  
  ##
  
