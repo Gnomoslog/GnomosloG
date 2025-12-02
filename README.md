@@ -14,7 +14,7 @@
  ### Я знаю Python, HTML и CSS, Figma, Photoshop и Adobe Illustrator, Aseprite, Godot Engine, также пользуюсь Git and GitHub, в скором времени надеюсь изучить JavaScript and Unity.
  
 
-<img src="https://camo.githubusercontent.com/fff292107ed01a9a581645c55d07797ac942f1dbaad5a56b874fe05be228180e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474f444f542d2532334646464646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f646f742d656e67696e65">
+
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg  />
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg  />
  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg  />
@@ -22,7 +22,7 @@
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg  />
   <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg />
   <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg  />
-
+<img src="https://camo.githubusercontent.com/fff292107ed01a9a581645c55d07797ac942f1dbaad5a56b874fe05be228180e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474f444f542d2532334646464646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f646f742d656e67696e65">
  
  ##
  
