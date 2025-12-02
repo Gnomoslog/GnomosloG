@@ -13,14 +13,15 @@
  
  ### Я знаю Python, HTML и CSS, Figma, Photoshop и Adobe Illustrator, Aseprite, Godot Engine, также пользуюсь Git and GitHub, в скором времени надеюсь изучить JavaScript and Unity.
  
-<img src=https://velog.velcdn.com/images/ghkd1330/post/ebd51fe2-95b4-44b9-9306-1f9933592829/image.jpeg height="70" alt="pit"  />
- <img src=https://avatars.mds.yandex.net/get-altay/11381866/2a0000018c59036deca36e60afe35279ef96/orig height="70" alt="pit"  />
- <img src=  https://www.goha.ru/s/E:D5/lF/tcVRaWembn.jpg    height="70" alt="pit"/>
-  <img src= https://media.tproger.ru/user-uploads/111192/2025-07-21/ba050226-77a8-430f-b5e2-126ffef21166.png   height="70" alt="pit"/>
+
+<img src="https://goo.su/RUaTzCw">
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg  />
+ <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg  />
  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg  />
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg  />
  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg  />
+  <img src= https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg />
+  <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg  />
 
  
  ##
